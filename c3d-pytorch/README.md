@@ -1,4 +1,4 @@
-# C3D for pytorch
+# C3D for pytorch https://github.com/DavideA/c3d-pytorch
 
 This is a pytorch porting of the network presented in the paper [Learning Spatiotemporal Features with 3D Convolutional Networks](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
 
