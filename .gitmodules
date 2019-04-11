@@ -1,0 +1,3 @@
+[submodule "pseudo-3d-pytorch"]
+	path = pseudo-3d-pytorch
+	url = https://github.com/ZhaofanQiu/pseudo-3d-residual-networks.git
