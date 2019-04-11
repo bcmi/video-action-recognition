@@ -1,3 +1,6 @@
 [submodule "pseudo-3d-pytorch"]
 	path = pseudo-3d-pytorch
 	url = https://github.com/ZhaofanQiu/pseudo-3d-residual-networks.git
+[submodule "pseudo-3d-caffe"]
+	path = pseudo-3d-caffe
+	url = https://github.com/ZhaofanQiu/pseudo-3d-residual-networks.git
