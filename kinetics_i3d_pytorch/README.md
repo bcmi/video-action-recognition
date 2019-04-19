@@ -1,6 +1,8 @@
 I3D models transfered from Tensorflow to PyTorch
-fork from [here](https://github.com/hassony2/kinetics_i3d_pytorch)
+
 ================================================
+fork from [here](https://github.com/hassony2/kinetics_i3d_pytorch)
+
 
 This repo contains several scripts that allow to transfer the weights from the tensorflow implementation of I3D
 from the paper [*Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset*](https://arxiv.org/abs/1705.07750) by Joao Carreira and Andrew Zisserman to PyTorch.
