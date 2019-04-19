@@ -1,5 +1,4 @@
 I3D models transfered from Tensorflow to PyTorch
-
 ================================================
 
 fork from [here](https://github.com/hassony2/kinetics_i3d_pytorch)
